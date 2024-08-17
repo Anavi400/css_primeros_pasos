@@ -2,3 +2,26 @@
 h1{
     color: blueviolet;
 }
+
+article h2{
+  
+    color:rgb(249, 22, 249); 
+}
+
+/* p{
+ color:aqua;
+} */
+
+/* Selector con clases */
+.texto {
+  color:rgb(10, 214, 255)
+}
+
+/* article p {
+    color:rgb(249, 22, 249)
+} */
+
+/* selector con id */
+#texto2{
+    color:plum;
+}
